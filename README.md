@@ -62,7 +62,7 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT:
-![331132914-de485fc2-e93f-42a6-9d8e-ce497b2d0bba](https://github.com/user-attachments/assets/a62b14af-e403-420a-8aae-5293d936b884)
+![Screenshot 2024-10-26 133130](https://github.com/user-attachments/assets/2f4b8b1c-44df-42df-b049-b640ea7b3fb0)
 
 ## RESULT:
   Thus the hill cipher substitution technique had been implemented successfully.
